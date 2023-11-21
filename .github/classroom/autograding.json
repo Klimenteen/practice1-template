@@ -1,0 +1,15 @@
+{
+    "tests": [
+        {
+            "name": "step1",
+            "setup": "npm install",
+            "run": "node --test --test-name-pattern step1",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+        }
+       
+    ]
+}
